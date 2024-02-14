@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Feb/2024:18:33:09 +0900] "GET / HTTP/1.1" 200 179
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:09 +0900] "GET / HTTP/1.1" 200 179
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:09 +0900] "GET /favicon.ico HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:11 +0900] "GET /board/list HTTP/1.1" 200 7206
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:18 +0900] "GET /board/list?pageNum=2&amount=10&keyword=&type= HTTP/1.1" 200 7199
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:20 +0900] "GET /board/list?pageNum=4&amount=10&keyword=&type= HTTP/1.1" 200 7194
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:18:33:28 +0900] "GET /board/list?pageNum=1&amount=10&keyword=test&type=TW HTTP/1.1" 200 7227
